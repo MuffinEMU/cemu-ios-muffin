@@ -30,11 +30,11 @@ textures in hardware either, so BC1–BC5 textures are decompressed on the CPU u
 Two IPAs are attached to every release, because the two install paths need different signing:
 
 - **SideStore / AltStore / LiveContainer** — add
-  `https://kiddreads.github.io/cemu-ios-muffin/apps.json` as a source. These tools take the
+  `https://muffinemu.github.io/cemu-ios-muffin/apps.json` as a source. These tools take the
   standard unsigned IPA and re-sign it with your own Apple ID at install.
-- **TrollStore** — add `https://kiddreads.github.io/cemu-ios-muffin/trollstore.json` as a
+- **TrollStore** — add `https://muffinemu.github.io/cemu-ios-muffin/trollstore.json` as a
   source, or download the ad-hoc signed IPA directly from
-  [Releases](https://github.com/kiddreads/cemu-ios-muffin/releases).
+  [Releases](https://github.com/MuffinEMU/cemu-ios-muffin/releases).
 
 Requires iPhone or iPad, iOS 15 or later. Landscape orientation.
 

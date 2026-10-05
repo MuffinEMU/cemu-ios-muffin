@@ -26,7 +26,7 @@ Two IPAs per release:
 - Ad-hoc signed, for TrollStore.
 - Unsigned, for SideStore / AltStore / LiveContainer.
 
-Source feeds at kiddreads.github.io/cemu-ios-muffin/apps.json and /trollstore.json.
+Source feeds at muffinemu.github.io/cemu-ios-muffin/apps.json and /trollstore.json.
 
 31 app icons with matching themes, three premium (unlocked by code).
 
