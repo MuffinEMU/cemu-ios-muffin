@@ -4,6 +4,12 @@ Muffin is an iOS port of [Cemu](https://github.com/cemu-project/Cemu), the Wii U
 builds Cemu's real C/C++ engine for iOS arm64 and drives it from a SwiftUI shell — the actual
 emulation core, not a reimplementation.
 
+## UPDATE:
+Muffin is now superseded by MuffinEMU, the next generation of Muffin. 
+Source: [MuffinEMU/Muffin-EMU] (https://github.com/MuffinEMU/Muffin-EMU)
+
+Download IPA files from releases, at the [MuffinEMU Releases Page] (https://github.com/MuffinEMU/Muffin-EMU/releases).
+
 ## Status
 
 A retail Wii U game runs end to end at playable speed, rendering correctly, on an iPad Pro
