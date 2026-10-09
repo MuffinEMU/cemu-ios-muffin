@@ -6,9 +6,9 @@ emulation core, not a reimplementation.
 
 ## UPDATE:
 Muffin is now superseded by MuffinEMU, the next generation of Muffin. 
-Source: [MuffinEMU/Muffin-EMU] (https://github.com/MuffinEMU/Muffin-EMU)
+Source: [MuffinEMU/Muffin-EMU](https://github.com/MuffinEMU/Muffin-EMU)
 
-Download IPA files from releases, at the [MuffinEMU Releases Page] (https://github.com/MuffinEMU/Muffin-EMU/releases).
+Download IPA files from releases, at the [MuffinEMU Releases Page](https://github.com/MuffinEMU/Muffin-EMU/releases).
 
 ## Status
 
