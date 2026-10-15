@@ -1,4 +1,9 @@
 #!/bin/bash
+# MuffinEMU — code by the MuffinEMU Development Team.
+# Copyright (c) 2026 MuffinEMU Development Team.
+# SPDX-License-Identifier: MPL-2.0
+# This notice must be kept in any copy or derivative (MPL-2.0 §3.4).
+
 # Copies Cemu's own data files into the built app bundle. Run as an Xcode
 # postBuildScript (see src/ios/project.yml), after the resource-copy phase has
 # already put src/ios/Resources in place.
