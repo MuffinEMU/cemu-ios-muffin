@@ -1,3 +1,8 @@
+// MuffinEMU — code by the MuffinEMU Development Team.
+// Copyright (c) 2026 MuffinEMU Development Team.
+// SPDX-License-Identifier: MPL-2.0
+// This notice must be kept in any copy or derivative (MPL-2.0 §3.4).
+
 // Graphic pack browsing and toggling for iOS - GraphicPack2 (Cafe/GraphicPack/) is a
 // complete, working feature with real consumers (LatteToMtl.cpp, the shader cache) and
 // had precisely zero iOS surface before this: nothing ever called LoadAll() here, so

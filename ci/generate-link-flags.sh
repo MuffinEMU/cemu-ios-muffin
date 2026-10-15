@@ -1,4 +1,9 @@
 #!/bin/bash
+# MuffinEMU — code by the MuffinEMU Development Team.
+# Copyright (c) 2026 MuffinEMU Development Team.
+# SPDX-License-Identifier: MPL-2.0
+# This notice must be kept in any copy or derivative (MPL-2.0 §3.4).
+
 # Generates a linker response file listing every static lib produced by the CMake
 # build (build-ios/) and every third-party dep vcpkg installed for arm64-ios, so the
 # Xcode app target can link against them without hand-maintaining ~90 library names

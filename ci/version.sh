@@ -1,4 +1,9 @@
 #!/bin/sh
+# MuffinEMU — code by the MuffinEMU Development Team.
+# Copyright (c) 2026 MuffinEMU Development Team.
+# SPDX-License-Identifier: MPL-2.0
+# This notice must be kept in any copy or derivative (MPL-2.0 §3.4).
+
 # The single source of truth for the version this line ships.
 #
 # WHY A FILE AND NOT ARITHMETIC ON THE TAG: the previous scheme derived the
